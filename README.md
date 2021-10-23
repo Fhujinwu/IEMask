@@ -1,1 +1,1 @@
-The code will be made public after finishing.
+The codes will be published after they are collated.
