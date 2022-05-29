@@ -1,1 +1,1 @@
-The codes will be published after they are collated.
+The code and model will be published after the paper is accepted.
