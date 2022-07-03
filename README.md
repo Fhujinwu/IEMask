@@ -1,3 +1,5 @@
+<h2 align="center">IEMask R-CNN: Information-enhanced Mask R-CNN</h2>
+
 ## Citation
 If you use IEMask R-CNN in your research, please cite our coming TBD paper.
 ```text
