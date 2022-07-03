@@ -1,6 +1,6 @@
 <h2 align="center">IEMask R-CNN: Information-enhanced Mask R-CNN</h2>
 
-This is an official implementation of IEMask R-CNN in our TBD paper "
+This is an official implementation of IEMask R-CNN in our IEEE Transactions on Big Data paper "
 <a href="https://ieeexplore.ieee.org/document/9811396">
 IEMask R-CNN: Information-enhanced Mask R-CNN</a>"
 
@@ -8,7 +8,7 @@ IEMask R-CNN: Information-enhanced Mask R-CNN</a>"
 The code will be published soon, if you need it urgently, please contact us by email.
 
 ## Citation
-If you use IEMask R-CNN in your research, please cite our coming TBD paper.
+If you use IEMask R-CNN in your research, please cite our coming IEEE Transactions on Big Data paper.
 ```text
 @ARTICLE{IEMask,
   author={Bi, Xiuli and Hu, Jinwu and Xiao, Bin and Li, Weisheng and Gao, Xinbo},
