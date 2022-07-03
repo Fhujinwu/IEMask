@@ -1,6 +1,6 @@
 <h2 align="center">IEMask R-CNN: Information-enhanced Mask R-CNN</h2>
 
-This is an official implementation of IEMask R-CNN in our T paper "
+This is an official implementation of IEMask R-CNN in our TBD paper "
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811396">
 IEMask R-CNN: Information-enhanced Mask R-CNN</a>"
 
