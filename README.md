@@ -1,5 +1,12 @@
 <h2 align="center">IEMask R-CNN: Information-enhanced Mask R-CNN</h2>
 
+<div align="center">
+  <img src="./images/fig2.PNG"><br><br>
+</div>
+<div align="center">
+  <img src="./images/table5.png"><br><br>
+</div>
+
 This is an official implementation of IEMask R-CNN in our IEEE Transactions on Big Data paper "
 <a href="https://ieeexplore.ieee.org/document/9811396">
 IEMask R-CNN: Information-enhanced Mask R-CNN</a>"
