@@ -5,10 +5,13 @@ This is an official implementation of IEMask R-CNN in our IEEE Transactions on B
 IEMask R-CNN: Information-enhanced Mask R-CNN</a>"
 
 ## Note
-The code will be published soon, if you need it urgently, please contact us by email.
+Our code is based on the <a href="https://github.com/facebookresearch/detectron2">
+Detectron2</a> and <a href="https://github.com/hustvl/BMaskR-CNN">BMask R-CNN</a> implementation.
+
 
 ## Citation
 If you use IEMask R-CNN in your research, please cite our coming IEEE Transactions on Big Data paper.
+
 ```text
 @ARTICLE{IEMask,
   author={Bi, Xiuli and Hu, Jinwu and Xiao, Bin and Li, Weisheng and Gao, Xinbo},
@@ -20,3 +23,7 @@ If you use IEMask R-CNN in your research, please cite our coming IEEE Transactio
   pages={1-13},
   doi={10.1109/TBDATA.2022.3187413}}
 ```
+ 
+## update status
+The code (V1) is uploaded (Ongoing updates).
+

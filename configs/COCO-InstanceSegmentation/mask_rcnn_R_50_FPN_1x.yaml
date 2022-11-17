@@ -1,0 +1,6 @@
+_BASE_: "../Base-RCNN-FPN.yaml"
+MODEL:
+  WEIGHTS: "../../output/model_final.pth"
+  MASK_ON: True
+  RESNETS:
+    DEPTH: 50
