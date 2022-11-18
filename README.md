@@ -1,4 +1,5 @@
 <h2 align="center">IEMask R-CNN: Information-enhanced Mask R-CNN</h2>
+<h4 align="right">by <a href="http://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm">Xiuli Bi</a>, <a href="https://fhujinwu.github.io/">Jinwu Hu</a>, <a href="https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm">Bin Xiao*</a>, <a href="https://faculty.cqupt.edu.cn/liws/zh_CN/index.htm">Weisheng Li</a>, <a href="https://see.xidian.edu.cn/faculty/xbgao/">Xinbo Gao</a></h4>
 
 <div align="center">
   <img src="./images/fig2.PNG"><br><br>
