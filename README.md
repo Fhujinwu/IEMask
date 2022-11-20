@@ -12,9 +12,24 @@ This is an official implementation of IEMask R-CNN in our IEEE Transactions on B
 <a href="https://ieeexplore.ieee.org/document/9811396">
 IEMask R-CNN: Information-enhanced Mask R-CNN</a>"
 
-## Note
+## Usage
+### Note
 Our code is based on the <a href="https://github.com/facebookresearch/detectron2">
 Detectron2</a> and <a href="https://github.com/hustvl/BMaskR-CNN">BMask R-CNN</a> implementation.
+
+### Training
+
+```bash
+python tools/train_net.py --config-file configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_1x.yaml --num-gpus 1
+```
+
+### Evaluation
+
+specify a config file and test with trained model
+
+```bash
+python train_net.py --config-file configs/COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_1x.yaml --num-gpus 1 --eval-only MODEL.WEIGHTS ./output/model_final.pth
+```
 
 
 ## Citation
