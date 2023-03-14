@@ -36,14 +36,14 @@ python train_net.py --config-file configs/COCO-InstanceSegmentation/mask_rcnn_R_
 If you use IEMask R-CNN in your research, please cite our coming IEEE Transactions on Big Data paper.
 
 ```text
-@ARTICLE{IEMask,
+@ARTICLE{9811396,
   author={Bi, Xiuli and Hu, Jinwu and Xiao, Bin and Li, Weisheng and Gao, Xinbo},
   journal={IEEE Transactions on Big Data}, 
-  title={IEMask R-CNN: Information-enhanced Mask R-CNN}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-13},
+  title={IEMask R-CNN: Information-Enhanced Mask R-CNN}, 
+  year={2023},
+  volume={9},
+  number={2},
+  pages={688-700},
   doi={10.1109/TBDATA.2022.3187413}}
 ```
  
